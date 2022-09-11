@@ -1,0 +1,5 @@
+*.odt
+*.pyc
+__pycache__
+*input.txt
+*.ps1
